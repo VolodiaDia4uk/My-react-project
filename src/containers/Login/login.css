@@ -1,0 +1,31 @@
+.login-form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 500px;
+    height: 400px;
+    padding: 40px;
+    border: 3px solid #9C9C9C;
+    background-color: #EAEAEA;
+}
+.text-info{
+    font-size: 30px;
+}
+.col-form-label-lg{
+    margin-right: 60%;
+}
+.btn-login-form{
+    font-size: 11px;
+    color:white;
+    margin: 1%;
+    width: 120px;
+    background: dodgerblue;
+}
+.btn-redirect-sign{
+    font-size: 11px;
+    color:white;
+    margin-top:1px ;
+    width: 120px;
+    background: dodgerblue;
+}
